@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include<time.h> 
+#include <time.h> 
 
 
 /* anskabot alpha 1
@@ -20,6 +20,14 @@
  * [ ] kwownledge to learn what means the questions  (what is, looking for, search, tell me)
  * [ ] make titles for each topic
  * [ ] create categories
+ * [ ] add todo list, manage todo with searches and commands
+ * [ ] make it restful API server and return must be in json
+ * [ ] individual use with token
+ * [ ] add news search
+ * [ ] video youtube downloader
+ * [ ] make it an audio reader
+ * [ ] make the answer in audio
+  
  * gcc -w -o bot core.c
  * .\bot.exe 
 
