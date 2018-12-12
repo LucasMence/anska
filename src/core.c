@@ -27,6 +27,7 @@
  * [ ] video youtube downloader
  * [ ] make it an audio reader
  * [ ] make the answer in audio
+ * [x] use linux to develop (test only)
   
  * gcc -w -o bot core.c
  * .\bot.exe 
