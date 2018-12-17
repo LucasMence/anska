@@ -1,4 +1,6 @@
-# anska
+# anska (PROJECT PAUSED!)
+
+![See the current anska project clicking here!](https://github.com/reversewatermelon/anska-p)
 
 ![](https://github.com/reversewatermelon/anska/blob/master/images/anskaLogo.png)
 
